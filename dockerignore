@@ -1,0 +1,4 @@
+/classes/*
+/generated-sources/*
+/generated-test-sources/*
+/test-classes/
